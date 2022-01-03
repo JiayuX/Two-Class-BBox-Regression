@@ -1,0 +1,1 @@
+VGG16 pretrained weight should be in this folder.
