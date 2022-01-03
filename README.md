@@ -4,3 +4,10 @@
  To run the code, download the original dataset from https://www.kaggle.com/andrewmvd/dog-and-cat-detection?select=images and place the 'annotations' and 'images' folders in the dataset folder. 
  
  The .h5 file containing the pretrained weights of VGG16 (https://github.com/fchollet/deep-learning-models/releases/download/v0.1/vgg16_weights_tf_dim_ordering_tf_kernels_notop.h5) also need to be downloaded and placed in the 'VGG16' folder.
+
+ Examples of the predicted bounding box with class label and confidence on unseen pictures are shown below:
+ 
+ ![Image](cat1.png)
+ ![Image](cat2.png)
+ ![Image](dog1.png)
+ ![Image](dog2.png)
