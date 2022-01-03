@@ -1,1 +1,1 @@
-VGG16 pretrained weight should be in this folder.
+VGG16 pretrained weights should be in this folder.
