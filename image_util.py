@@ -40,7 +40,7 @@ def rescaledFrame(frame, target_size=[600,600]):
 
 
 """
-Functions 'generate_colors' and 'draw_boxes' are dopted from Deep Learning Specialization on Coursera
+Functions 'generate_colors' and 'draw_boxes' are adapted and modified from Deep Learning Specialization on Coursera
 by Andrew Ng
 """
 def generate_colors(class_names):
