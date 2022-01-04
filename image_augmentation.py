@@ -8,7 +8,7 @@ from skimage.util import random_noise
 from scipy import ndimage
 
 """
-Data augmentation methods are adopted from the blog post 
+Data augmentation methods are adapted and modified from the blog post 
 https://blog.paperspace.com/data-augmentation-for-object-detection-rotation-and-shearing/
 by By Ayoosh Kathuria
 """
