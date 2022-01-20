@@ -7,7 +7,7 @@
 
  Examples of the predicted bounding box with class label and confidence on unseen pictures are shown below:
  
- ![Image](cat1.png)
- ![Image](cat2.png)
- ![Image](dog1.png)
- ![Image](dog2.png)
+<img src="https://raw.githubusercontent.com/JiayuX/Generic-Function-Optimizer-via-Particle-Swarm-Algorithm/main/cat1.png" width="400"/>
+<img src="https://raw.githubusercontent.com/JiayuX/Generic-Function-Optimizer-via-Particle-Swarm-Algorithm/main/cat2.png" width="400"/>
+<img src="https://raw.githubusercontent.com/JiayuX/Generic-Function-Optimizer-via-Particle-Swarm-Algorithm/main/dog1.png" width="400"/>
+<img src="https://raw.githubusercontent.com/JiayuX/Generic-Function-Optimizer-via-Particle-Swarm-Algorithm/main/dog2.png" width="400"/>
