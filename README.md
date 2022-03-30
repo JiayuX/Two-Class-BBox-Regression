@@ -1,5 +1,5 @@
 # Two-Class-BBox-Regression
- This object detection project builds a two-class bounding box regressor to detect and classify dogs and cats. Due to the simplicity of the model, it requires that only one object belonging to either one of the included classes appear in each picture. To achieve multi-object & multi-class detection, more complex models are expected such as those in R-CNN and YOLO families.
+ This object detection project builds a two-class bounding box regressor to detect and classify dogs and cats. With the dataset used, the model is applicable when only one object belonging to either one of the included classes appear in each picture. To achieve multi-object & multi-class detection, a properly annotated dataset is needed and better models are available such as YOLO.
 
  To run the code, download the original dataset from [Kaggle](https://www.kaggle.com/andrewmvd/dog-and-cat-detection?select=images) and place the 'annotations' and 'images' folders in the dataset folder. 
  
